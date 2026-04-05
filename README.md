@@ -1,4 +1,5 @@
 <h1>Jogo do número secreto</h1>
+<h2>🖥 Projeto Concluido ✅ </h2>
 
 <h2>📋 Sobre o projeto</h2>
 <p>Este projeto é uma aplicação interativa desenvolvida para consolidar conhecimentos fundamentais de lógica de programação e manipulação do DOM (Document Object Model). O objetivo é que o usuário descubra um número gerado aleatoriamente pelo sistema, recebendo dicas se o valor oculto é maior ou menor que o palpite atual.</p>
