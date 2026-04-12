@@ -6,10 +6,10 @@
 
 <p><h3>✦ Principais funcionalidades:</h3></p>
 
-<p>⇢ Geração de números aleatórios com intervalo configurável.</p>
-<p>⇢ Sistema de feedback visual e textual em tempo real.</p>
-<p>⇢ Contador de tentativas para gamificação da experiência.</p>
-<p>⇢ Interface responsiva e intuitiva.</p>
+<p>➥ Geração de números aleatórios com intervalo configurável.</p>
+<p>➥ Sistema de feedback visual e textual em tempo real.</p>
+<p>➥ Contador de tentativas para gamificação da experiência.</p>
+<p>➥ Interface responsiva e intuitiva.</p>
 
 ## 🖥 Tecnologias utilizadas no projeto
 <div>
