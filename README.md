@@ -1,4 +1,5 @@
 <h1>Jogo do número secreto</h1>
+<img width="1875" height="958" alt="Image" src="https://github.com/user-attachments/assets/2fb410f1-9ccb-4a6d-a495-06e7aba172ba" />
 <h2>🖥 Projeto Concluido ✅ </h2>
 
 <h2>📋 Sobre o projeto</h2>
