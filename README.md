@@ -2,6 +2,9 @@
 <img width="1875" height="958" alt="Image" src="https://github.com/user-attachments/assets/2fb410f1-9ccb-4a6d-a495-06e7aba172ba" />
 <h2>🖥 Projeto Concluido ✅ </h2>
 
+## 🔗 Link do projeto
+➥ https://brendosukuna-dev.github.io/jogo-do-numero-secreto/
+
 ## 📋 Sobre o projeto 
 <p>Este projeto é uma aplicação interativa desenvolvida para consolidar conhecimentos fundamentais de lógica de programação e manipulação do DOM (Document Object Model). O objetivo é que o usuário descubra um número gerado aleatoriamente pelo sistema, recebendo dicas se o valor oculto é maior ou menor que o palpite atual.</p>
 
